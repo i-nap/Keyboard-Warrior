@@ -1,0 +1,34 @@
+
+Kjavascript:S3504")Unexpected var, use let or const instead.(¸ëx8ç„ŞƒÂ1
+Bjavascript:S125Ø"Remove this commented out code.(êÖ¥ì8è„ŞƒÂ1
+Gjavascript:S125ë"Remove this commented out code.(ğ¥×şÿÿÿÿ8è„ŞƒÂ1
+ujavascript:S4138"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(‰®×ıÿÿÿÿ8“…ŞƒÂ1
+ojavascript:S4138¤"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(Ğ”éI8•…ŞƒÂ1
+ojavascript:S4138®"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(Ğ”éI8•…ŞƒÂ1
+djavascript:S1481ú";Remove the declaration of the unused 'activeWord' variable.(Àß¬¨üÿÿÿÿ8•…ŞƒÂ1
+ajavascript:S1854ú"8Remove this useless assignment to variable "activeWord".(Àß¬¨üÿÿÿÿ8•…ŞƒÂ1
+xjavascript:S3776‘"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(«„°¹8–…ŞƒÂ1
+ajavascript:S1481•"=Remove the declaration of the unused 'correctWords' variable.(Ù¼ì8–…ŞƒÂ1
+cjavascript:S1481–"?Remove the declaration of the unused 'incorrectWords' variable.(ã·¬¶8–…ŞƒÂ1
+\javascript:S1854±"8Remove this useless assignment to variable "avgWordLen".(ú´—8–…ŞƒÂ1
+Bjavascript:S125²"Remove this commented out code.( á‹¤8–…ŞƒÂ1
+Bjavascript:S125»"Remove this commented out code.(ø ¯8–…ŞƒÂ1
+}javascript:S2703ß"YAdd the "let", "const" or "var" keyword to this declaration of "wpm" to make it explicit.(ø©Àä8–…ŞƒÂ1
+ejavascript:S1481ü"<Remove the declaration of the unused 'letterElems' variable.(ö† ıÿÿÿÿ8–…ŞƒÂ1
+bjavascript:S1854ü"9Remove this useless assignment to variable "letterElems".(ö† ıÿÿÿÿ8–…ŞƒÂ1
+Bjavascript:S125€"Remove this commented out code.(Œı Ÿ8–…ŞƒÂ1
+cjavascript:S6660‚"?'If' statement should not be the only statement in 'else' block(Éªœ“8–…ŞƒÂ1
+Gjavascript:S125…"Remove this commented out code.(ã±²÷úÿÿÿÿ8–…ŞƒÂ1
+Bjavascript:S125ˆ"Remove this commented out code.(è×Å8–…ŞƒÂ1
+Bjavascript:S125œ"Remove this commented out code.(§Í”¢8–…ŞƒÂ1
+Gjavascript:S125¢"Remove this commented out code.(§Õô‡ûÿÿÿÿ8—…ŞƒÂ1
+}javascript:S2703¦"YAdd the "let", "const" or "var" keyword to this declaration of "wrd" to make it explicit.(ò¶¯‚8—…ŞƒÂ1
+ƒjavascript:S2703Õ"ZAdd the "let", "const" or "var" keyword to this declaration of "mode" to make it explicit.(ø”“öùÿÿÿÿ8—…ŞƒÂ1
+cjavascript:S6660 "?'If' statement should not be the only statement in 'else' block(ÂşÖâ8—…ŞƒÂ1
+}javascript:S3776¸"TRefactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.(áº”¶úÿÿÿÿ8—…ŞƒÂ1
+Gjavascript:S125Û"Remove this commented out code.(·Òíõùÿÿÿÿ8—…ŞƒÂ1
+Bjavascript:S125ô"Remove this commented out code.(¯­¤”8—…ŞƒÂ1
+Gjavascript:S125€"Remove this commented out code.(ÂóÙ÷ÿÿÿÿÿ8—…ŞƒÂ1
+}javascript:S3776‡"TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(í™Ûïúÿÿÿÿ8—…ŞƒÂ1
+}javascript:S3776Ù"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(ØçÒîùÿÿÿÿ8˜…ŞƒÂ1
+Gjavascript:S125Œ	"Remove this commented out code.(¦ùÃ‘üÿÿÿÿ8˜…ŞƒÂ1

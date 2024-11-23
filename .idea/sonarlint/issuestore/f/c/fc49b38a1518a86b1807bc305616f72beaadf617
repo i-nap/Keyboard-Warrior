@@ -1,0 +1,18 @@
+
+g	java:S112H"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Æÿµ„Â1
+l
+java:S1192"JDefine a constant instead of duplicating this literal "text/html" 4 times.(ïòîÀşÿÿÿÿ8æ¥ó„Â1
+„
+java:S1192"bDefine a constant instead of duplicating this literal "<script type=\"text/javascript\">" 4 times.(Ìúòöúÿÿÿÿ8æ¥ó„Â1
+l
+java:S1192""JDefine a constant instead of duplicating this literal "</script>" 4 times.(¿Çÿÿÿÿÿ8æ¥ó„Â1
+„
+java:S1192!"bDefine a constant instead of duplicating this literal "window.location.href='index.jsp';" 3 times.(²Âˆìÿÿÿÿÿ8æ¥ó„Â1
+l
+java:S2095)"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(‘¯ªÄ8àÿµ„Â1
+£
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ïû©Öûÿÿÿÿ8áÿµ„Â1
+r
+java:S1989"PHandle the following exception that could be thrown by "getWriter": IOException.(ïô†úÿÿÿÿ8æÿµ„Â1
+c
+java:S1989H"AHandle the "RuntimeException" thrown here in a "try/catch" block.(Ò‚Òéüÿÿÿÿ8ìÿµ„Â1

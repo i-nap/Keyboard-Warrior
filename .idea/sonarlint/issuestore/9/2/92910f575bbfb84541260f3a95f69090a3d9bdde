@@ -1,0 +1,19 @@
+
+`	java:S112C"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+^
+java:S2259""CA "NullPointerException" could be thrown; "email" is nullable here.(†‚Ê§ûÿÿÿÿ
+P
+java:S1161":Add the "@Override" annotation above this method signature(‹¨¯¿
+9
+java:S2119$"Save and re-use this "Random".(šŸ«íøÿÿÿÿ
+
+java:S5527,"wEnable server hostname verification on this SSL/TLS connection, by setting "mail.smtp.ssl.checkserveridentity" to true.(’ß‡ƒ
+P
+java:S11610":Add the "@Override" annotation above this method signature(‡èú×
+E	java:S106?"+Replace this use of System.out by a logger.(’ìº¸üÿÿÿÿ
+\
+java:S1989C"AHandle the "RuntimeException" thrown here in a "try/catch" block.(Ò‚Òéüÿÿÿÿ
+V	java:S125G"<This block of commented-out lines of code should be removed.(Ãõ§ßüÿÿÿÿ
+|
+java:S1989J"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(ÜÕˆêøÿÿÿÿ
+V	java:S125K"<This block of commented-out lines of code should be removed.(éÃÖ“ùÿÿÿÿ

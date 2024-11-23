@@ -1,0 +1,443 @@
+.navnew{
+    background-color: #141B1E !important;
+    padding: 0px !important;
+}
+
+.left-icons{
+    display: flex;
+    padding: 51px 0px 0px 76px;
+}
+
+.right-icons{
+    display: flex;
+    padding: 51px 76px 0px 0px;
+
+}
+.logo{
+    height: 60px;
+    width: auto;
+    margin: 0px 40px 0px 0px;
+}
+
+.keyboard{
+    height: 23px;
+    width: auto;
+    margin: 19px 40px 0px 0px;
+
+}
+
+.about{
+    height: 23px;
+    width: auto;
+    margin: 19px 40px 0px 0px;
+
+}
+
+.leaderboard{
+    height: 23px;
+    width: auto;
+    margin: 19px 40px 0px 0px;
+
+}
+
+.noti{
+    height: 23px;
+    width: auto;
+    margin: 0px 40px 0px 0px;
+
+}
+
+.profile{
+    height: 23px;
+    width: auto;
+
+
+}
+
+.main{
+    display: flex;
+    padding: 130px 136px 0px 136px;
+    flex-direction: column;
+}
+
+.option{
+    display: flex;
+    justify-content: space-between;
+}
+
+.time-limit{
+    width: 50px;
+    height: 40px;
+    border: none !important;
+    border-radius: 10px !important;
+    background-color: #232A2D !important;
+    color: #8CCF7E !important;
+    font-size: 12px !important;
+}
+
+.mode{
+    width: 90px;
+    height: 40px;
+    border: none !important;
+    border-radius: 10px !important;
+    background-color: #232A2D !important;
+    color: #8CCF7E !important;
+    font-size: 12px !important;
+}
+
+.text{
+    padding-top: 40px;
+    font-size: 45px;
+    color: #838887;
+}
+
+.time_retry{
+    padding-top: 40px;
+    display: flex;
+    align-items: center;
+}
+
+.time{
+    font-size:25px !important;
+    color: #8CCF7E;
+    margin: 0px;
+}
+
+.restart{
+    /* center align garna chala huncha margin auto justify-content: main lai matra chalcha; */
+    height: 23px;
+    width: auto;
+    margin: auto;
+}
+
+.cmd{
+    padding: 40px 0px 0px 0px;
+    margin:auto;
+    color:#838887;
+    font-size: 12px;
+}
+
+.space{
+    padding: 0px 10px 0px 10px;
+}
+
+.tab{
+    width: 60px;
+    height: 40px;
+    text-align: left !important;
+    border: none !important;
+    border-radius: 10px !important;
+    color: #8CCF7E !important;
+    background-color: #232A2D !important;
+    font-size: 12px !important;
+
+}
+
+.enter{
+    width: 60px;
+    height: 40px;
+    border: none !important;
+    border-radius: 10px !important;
+    color: #8CCF7E !important;
+    background-color: #232A2D !important;
+    font-size: 12px !important;
+
+}
+
+.footer{
+    margin: auto;
+    display: flex;
+    padding: 40px 76px 0px 76px;
+    justify-content: space-between;
+}
+
+.left-img{
+    height: 14px;
+    width: auto;
+    margin-top: 2.5px;
+}
+
+
+.footer_text{
+    font-size: 12px;
+    margin-right: 40px;
+    margin-left: 6px;
+    color:#838887;
+}
+
+.left-footer{
+    display: flex;
+}
+
+.right-footer{
+    display: flex;
+}
+
+.right-img{
+    height: 16px;
+    width: auto;
+    margin-top: 2.5px;
+}
+
+.right-footer-text{
+    font-size: 12px;
+    margin-left: 6px;
+    color:#838887;
+}
+
+.box{
+    margin: 40px 0px 0px 0px;
+    display: flex;
+    justify-content: center;
+}
+.left-box{
+    width: 526.5px;
+    height: 400px;
+    border-radius: 10px;
+}
+
+.right-box{
+    width: 526.5px;
+    height: 400px;
+    border-radius: 10px;
+}
+
+.welcome{
+    margin: 0px;
+    padding: 0px 0px 0px 106px;
+    color: #838887;
+}
+
+.warrior{
+    margin-top: -15px;
+    margin-bottom: 30px;
+    padding: 0px 0px 0px 106px;
+    color: #8CCF7E;
+}
+::placeholder {
+    color: #838887;
+    opacity: 1;
+}
+
+.username{
+    margin: 0px 0px 0px 106px;
+    width: 320px;
+    border-radius: 10px;
+    height: 48px;
+    border: none;
+    background-color: #232A2D;
+    padding: 0px 0px 0px 8px;
+    color: #838887;
+
+}
+
+.password{
+    margin: 15px 0px 0px 106px;
+    width: 320px;
+    border-radius: 10px;
+    height: 48px;
+    border: none;
+    background-color: #232A2D;
+    padding: 0px 0px 0px 8px;
+    color: #838887;
+
+}
+
+.after-login-forum{
+    display: flex;
+    margin: 15px 0px 0px 106px;
+
+}
+
+.remember{
+    margin: 0px 0px 0px 2px;
+    font-size: 12px;
+    color: #838887;
+    padding: 0px;
+}
+
+.forget{
+    padding: 0px 0px 0px 136px;
+    font-size: 12px;
+    color: #838887;
+    margin: 0px;
+}
+
+.login{
+    display: flex;
+    justify-content: center;
+    padding: 30px 0px 0px 0px;
+}
+
+.login-btn{
+    width: 120px;
+    height: 48px;
+    border-radius: 10px;
+    background-color: #232A2D;
+    border: none;
+    color: #838887;
+}
+
+.worthy{
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+}
+.worthy-1{
+    margin: 15px 0px 0px 0px;
+    color: #838887;
+    font-size: 12px;
+
+}
+
+.worthy-2{
+    color: #8CCF7E;
+    font-size: 12px;
+}
+
+.email-reg{
+    color: #838887;
+    margin: 10px 0px 0px 106px!important;
+    width: 320px!important;
+    border-radius: 10px!important;
+    height: 48px!important;
+    border: none!important;
+    background-color: #232A2D!important;
+    padding: 0px 0px 0px 8px;
+}
+
+.con-password-reg{
+    margin: 10px 0px 0px 106px;
+    width: 320px;
+    border-radius: 10px;
+    height: 48px;
+    border: none;
+    background-color: #232A2D;
+    padding: 0px 0px 0px 8px;
+    color: #838887;
+
+}
+
+.password-reg{
+    margin: 10px 0px 0px 106px;
+    width: 320px;
+    border-radius: 10px;
+    height: 48px;
+    border: none;
+    background-color: #232A2D;
+    padding: 0px 0px 0px 8px;
+    color: #838887;
+
+}
+
+a {
+    text-decoration: none;
+}
+
+.username-reg{
+    margin: 0px 0px 0px 106px;
+    width: 320px;
+    border-radius: 10px;
+    height: 48px;
+    border: none;
+    background-color: #232A2D;
+    padding: 0px 0px 0px 8px;
+    color: #838887;
+}
+
+.welcome-reg{
+    margin: 0px;
+    padding: 0px 0px 0px 106px;
+    color: #838887;
+}
+
+.warrior-reg{
+    margin-top: -15px;
+    margin-bottom: 30px;
+    padding: 0px 0px 0px 106px;
+    color: #8CCF7E;
+}
+
+.register{
+    margin: 30px 0px 0px 0px;
+    display: flex;
+    justify-content: center;
+}
+
+.reg-btn{
+    width: 120px;
+    height: 48px;
+    border-radius: 10px;
+    background-color: #232A2D;
+    border: none;
+    color: #838887;
+}
+
+.worthy-reg{
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+}
+.worthy-1-reg{
+    margin: 5px 0px 0px 0px;
+    color: #838887;
+    font-size: 12px;
+
+}
+
+.worthy-2-reg{
+    color: #8CCF7E;
+    font-size: 12px;
+}
+
+input[type=text]:focus {
+    outline: 2px solid #8CCF7E;
+    color: #838887;
+}
+
+input[type=password]:focus {
+    outline: 2px solid #8CCF7E;
+    color: #838887;
+}
+
+input[type=email]:focus {
+    outline: 2px solid #8CCF7E;
+    color: #838887!important;
+}
+
+.login-btn:hover{
+    background-color: #8CCF7E;
+    color: #141B1E;
+}
+
+.reg-btn:hover{
+    background-color: #8CCF7E;
+    color: #141B1E;
+}
+
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container-fluid {
+    display: flex;
+}
+
+.box {
+    display: flex;
+    margin: 0 auto;
+}
+
+.left-box, .right-box {
+    flex: 1;
+}
+
+.login-overall, .register-overall {
+    display: flex;
+    flex-direction: column;
+}
